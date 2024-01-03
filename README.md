@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ THUNDER STRING SESSION BOT ❤️</b></h1>
 <p align="center">
   <img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgQAAxkBAAIIEGWVs8jMI2Hsb3_YSsvVKkf2vYJXAAIcvzEbc56pUBUMZVHKWzOJAQADAgADeAADNAQ" alt="StringGen">
 </p>
@@ -12,7 +12,7 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/WCGKING"><img alt="Website" src="https://img.shields.io/badge/𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
  
-[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/stargazers)
+[![THUNDER](https://img.shields.io/github.com/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/stargazers)
   [![Forks](https://img.shields.io/github/forks/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
